@@ -4,7 +4,7 @@
 
 ____
 
-## Appium
+## Appium - an open-source tool for automating different types of mobile apps.
 ### Part 1
 
 
@@ -30,7 +30,7 @@ ____
 
 ____
 
-🔘 🔘 Native
+🔘 Native 🔘 
 
 ↣ ↣ developed for a particular mobile device or platform, such as Android or iOS)
 
@@ -52,23 +52,49 @@ ____
 
 ____
 
-🔘 🔘 Mobile Web
+🔘 Mobile Web 🔘 
 
 ↣ ↣ accessed over a mobile browser
-↣ ↣ 
-↣ ↣ 
-↣ ↣ 
-↣ ↣ 
-↣ ↣ 
+
+↣ ↣ easily accessed via built-in browsers, such as Safari on iOS and Chrome on Android
+
+↣ ↣ browsers are primarily developed using tech such as HTML5 or JavaScript, which provide customization capabilties
+
+↣ ↣ browsers are served from a server and not stored offline anywhere on a device
+
+↣ ↣ common code base allows for access on any device with browsers, like any typical web app
+
+↣ ↣ uses responsive design standards to cater to devices of different screen sizes and resolutions
+
+↣ ↣ can access mobile-specific features, such as dialing a phone number or location-based mapping
+
+↣ ↣ can only be accessed with a valid network (WiFi/5G/4G/3G)
+
+↣ ↣ example 1: A mobile website of The New York Times can be opened with any mobile browser. The URL is http://mobile.nytimes.com. Can perform the same actions as web, such as browser refresh. Can open using the Safari app on an iPhone device or simulator running iOS.
+
+↣ ↣ example2: Can also run the mobile site of The New York Times on an Android emulator running Adroid OS. Open the site on the default browser app.
 
 ____
 
-🔘 🔘 Hybrid
-↣ ↣ 
-↣ ↣ 
-↣ ↣ 
-↣ ↣ 
-↣ ↣ 
+🔘 Hybrid 🔘 
+
+↣ ↣ consists of websites packaged in a native wrapper
+
+↣ ↣ developed in web tech, such as HTML5, CSS, JavaScript, but run inside a native constainer, hence giving it the native app 'feel'
+
+↣ ↣ relies on HTML rendering in the mobile browser, with a limitation that the browser is embedded within the app
+
+↣ ↣ common code base for all the mobile OS, such as iOS and Android
+
+↣ ↣ web-to-native abstraction layer enables access to device-specific capabilities - such as a camera, device local storage, and an accelerometer - which are nor accessible in Mobile Web apps otherwise
+
+↣ ↣ Most favored approach for a company with a web page. The company often builds a hybrid app as a wrapper used over the web page.
+
+↣ ↣ tools, such as PhoneGap and Sencha Touch, can be used to build a hybrid app
+
+↣ ↣ can be downloaded via respective app stores
+
+↣ ↣ example1: Evernote app is a hybrid app that can be downloaded from the respective app store.
 
 ____
 
