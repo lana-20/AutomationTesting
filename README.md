@@ -1,6 +1,34 @@
-# *Automation Scripts for Mobile Testing using Appium*
+# *Automated Mobile Testing using Appium*
 
 🔗[Link to git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
+
+____
+
+Appium 
+
+🔵 Types
+
+↣ hybrid
+
+↣ mobile web
+
+↣ native
+
+🔵 Architecture
+
+↣ XCUITest | Apple iOS
+
+↣ UI Automator | Google Android
+
+🔵 Pros
+
+↣ open source
+
+↣ cross platform
+
+↣ no recompile/modify needed (e.g., to submit to an app store)
+____
+
 
 *12 Step Guide to configure and run Mobile Automation test cases using Appium* | 
 ------------ |
