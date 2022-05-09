@@ -101,6 +101,9 @@ ____
 
 🔵 Architecture
 
+![image](https://user-images.githubusercontent.com/70295997/167332908-bf1758dd-1242-457b-9af9-3ecb1b42d636.png)
+
+
 ↣ XCUITest | Apple iOS
 
 ↣ UI Automator | Google Android
