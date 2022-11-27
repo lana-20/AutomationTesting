@@ -1,6 +1,7 @@
-# *Automated Mobile Testing using Appium*
 
-🔗[Link to git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
+<img src="https://user-images.githubusercontent.com/70295997/204164772-653d0671-49aa-44ea-a155-dce73e75f9c4.png" width="100" />
+
+# *Automated Mobile Testing using Appium*
 
 ____
 
@@ -10,7 +11,7 @@ ____
 
 The mobile app marget is huge, and keeps increasing constantly.
 
-It's essemtial to learn mobile app development and testing, due to the increasing demand.
+It's essential to learn mobile app development and testing, due to the increasing demand.
 
 ____
 
@@ -54,6 +55,8 @@ ____
 
 🔘 Mobile Web 🔘 
 
+↣ ↣ a.k.a. [PWA - Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+
 ↣ ↣ accessed over a mobile browser
 
 ↣ ↣ easily accessed via built-in browsers, such as Safari on iOS and Chrome on Android
@@ -78,6 +81,12 @@ ____
 
 🔘 Hybrid 🔘 
 
+↣ ↣ a.k.a. [Cross-Platform](https://ionic.io/resources/articles/ionic-vs-react-native-a-comparison-guide)
+
+↣ ↣ ↣ Cross-Platform *Web* Platforms: [Ionic](https://ionicframework.com/), [Cordova](https://cordova.apache.org/)
+
+↣ ↣ ↣ Cross-Platform *Native* Platforms: [React Native](http://react-native.org/), [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin), [Flutter](https://flutter.dev/), [NativeScript](https://nativescript.org/)
+
 ↣ ↣ consists of websites packaged in a native wrapper
 
 ↣ ↣ developed in web tech, such as HTML5, CSS, JavaScript, but run inside a native constainer, hence giving it the native app 'feel'
@@ -99,7 +108,7 @@ ____
 ____
 
 
-🔵 Architecture
+🔵 [Architecture](https://github.com/lana-20/appium-architecture)
 
 ![image](https://user-images.githubusercontent.com/70295997/167332908-bf1758dd-1242-457b-9af9-3ecb1b42d636.png)
 
