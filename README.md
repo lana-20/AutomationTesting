@@ -1,7 +1,7 @@
 
-<img src="https://user-images.githubusercontent.com/70295997/204164772-653d0671-49aa-44ea-a155-dce73e75f9c4.png" width="100" />
 
-# *Automated Mobile Testing using Appium*
+# 
+<img src="https://user-images.githubusercontent.com/70295997/204164772-653d0671-49aa-44ea-a155-dce73e75f9c4.png" width="50" /> *Automated Mobile Testing using Appium*
 
 ____
 
