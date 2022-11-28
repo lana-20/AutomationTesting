@@ -6,7 +6,6 @@
 ____
 
 ## Appium - an open-source tool for automating different types of mobile apps.
-### Part 1
 
 
 The mobile app marget is huge, and keeps increasing constantly.
@@ -29,7 +28,10 @@ ____
 
 🔵 Types of Mobile Apps
 
+<img src="https://user-images.githubusercontent.com/70295997/204197612-0ca378ed-c00d-461e-86f1-320362f636f9.png" width=400/>
+
 ____
+
 
 🔘 Native 🔘 
 
