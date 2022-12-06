@@ -101,7 +101,7 @@ ____
 
 ↣ ↣ Most favored approach for a company with a web page. The company often builds a hybrid app as a wrapper used over the web page.
 
-↣ ↣ tools, such as PhoneGap and Sencha Touch, can be used to build a hybrid app
+↣ ↣ tools, such as Apache Cordova or React Native, can be used to build a hybrid app
 
 ↣ ↣ can be downloaded via respective app stores
 
